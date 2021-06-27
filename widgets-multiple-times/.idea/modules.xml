@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/widgets-multiple-times.iml" filepath="$PROJECT_DIR$/.idea/modules/widgets-multiple-times.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/widgets-multiple-times.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/widgets-multiple-times.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/widgets-multiple-times.buildSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/widgets-multiple-times.buildSrc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/editor/widgets-multiple-times.editor.iml" filepath="$PROJECT_DIR$/.idea/modules/editor/widgets-multiple-times.editor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/language-base/widgets-multiple-times.language-base.iml" filepath="$PROJECT_DIR$/.idea/modules/language-base/widgets-multiple-times.language-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/language-cobol85/widgets-multiple-times.language-cobol85.iml" filepath="$PROJECT_DIR$/.idea/modules/language-cobol85/widgets-multiple-times.language-cobol85.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/language-golang/widgets-multiple-times.language-golang.iml" filepath="$PROJECT_DIR$/.idea/modules/language-golang/widgets-multiple-times.language-golang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/language-html/widgets-multiple-times.language-html.iml" filepath="$PROJECT_DIR$/.idea/modules/language-html/widgets-multiple-times.language-html.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/language-java/widgets-multiple-times.language-java.iml" filepath="$PROJECT_DIR$/.idea/modules/language-java/widgets-multiple-times.language-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/language-mksh/widgets-multiple-times.language-mksh.iml" filepath="$PROJECT_DIR$/.idea/modules/language-mksh/widgets-multiple-times.language-mksh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/language-python/widgets-multiple-times.language-python.iml" filepath="$PROJECT_DIR$/.idea/modules/language-python/widgets-multiple-times.language-python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/language-universal/widgets-multiple-times.language-universal.iml" filepath="$PROJECT_DIR$/.idea/modules/language-universal/widgets-multiple-times.language-universal.iml" />
+    </modules>
+  </component>
+</project>
